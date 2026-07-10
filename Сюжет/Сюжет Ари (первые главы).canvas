@@ -301,27 +301,6 @@
 			"height":120
 		},
 		{
-			"id":"98194c0ca6e63506",
-			"type":"text",
-			"text":"Ари сомневается в компетентности и добросовестности Корина",
-			"styleAttributes":{},
-			"x":-50,
-			"y":1462,
-			"width":260,
-			"height":84
-		},
-		{
-			"id":"9a6ca68de7bd222a",
-			"type":"text",
-			"text":"встреча с Варель и прошлое Корина",
-			"styleAttributes":{},
-			"x":-310,
-			"y":1355,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
 			"id":"8a4676b2dbd22859",
 			"type":"text",
 			"text":"Корина ранят, на что Ари скажет, что не может постоянно за него беспокоиться. Ей нужно думать о выполнении миссии, а не о его сохранности. \nНу и наругает за невнимательность",
@@ -354,7 +333,6 @@
 		},
 		{"id":"2ee20c2c8c361da1","type":"file","file":"Сатис/Корин.md","x":0,"y":38,"width":400,"height":526},
 		{"id":"4e1ed6d4c7fb32c5","type":"file","file":"Сатис/Арилайа Ноксус.md","x":0,"y":-811,"width":400,"height":782},
-		{"id":"789a733eef678e72","type":"file","file":"Сатис/Культ Клеоноса.md","x":-480,"y":-58,"width":400,"height":718},
 		{"id":"9cd76585ed0fb4fb","type":"file","file":"Сатис/Орден Золотых Масок.md","x":-480,"y":-811,"width":400,"height":680},
 		{
 			"id":"709efe8c51990d39",
@@ -469,27 +447,6 @@
 			"color":"6"
 		},
 		{
-			"id":"24694f39cc4f0a6a",
-			"type":"text",
-			"text":"Следует за челом, тот встречается с Культистами, чтобы передать им книгу\nРазговаривает с ними на языке пустыни",
-			"styleAttributes":{},
-			"x":-80,
-			"y":2860,
-			"width":260,
-			"height":160
-		},
-		{
-			"id":"65eabdeb5bd02b8c",
-			"type":"text",
-			"text":"Ари должна снова стать Тенью",
-			"styleAttributes":{},
-			"x":-260,
-			"y":2610,
-			"width":260,
-			"height":60,
-			"color":"5"
-		},
-		{
 			"id":"6d8ab9a1fd889736",
 			"type":"text",
 			"text":"Ари надевает золотую маску",
@@ -602,27 +559,6 @@
 			"height":180
 		},
 		{
-			"id":"ef7a633421117f87",
-			"type":"text",
-			"text":"драка в порту",
-			"styleAttributes":{},
-			"x":-340,
-			"y":1595,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"2892c5f9a61a19cf",
-			"type":"text",
-			"text":"чтение памяти",
-			"styleAttributes":{},
-			"x":-460,
-			"y":1495,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
 			"id":"9d06f03b08e9a4b3",
 			"type":"text",
 			"text":"Клуб и рабство",
@@ -706,39 +642,6 @@
 			"height":60
 		},
 		{
-			"id":"3dfd43b758703946",
-			"type":"text",
-			"text":"невнятное начало с культистами",
-			"styleAttributes":{},
-			"x":-330,
-			"y":1115,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"0ebee5545c491055",
-			"type":"text",
-			"text":"диалог в кафе",
-			"styleAttributes":{},
-			"x":-330,
-			"y":1235,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"1549ed6edf6922d5",
-			"type":"text",
-			"text":"что стоит оставить?",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-470,
-			"y":935,
-			"width":260,
-			"height":60,
-			"color":"5"
-		},
-		{
 			"id":"d2393b25eece73c4",
 			"type":"text",
 			"text":"осмотр тела капеллана и его комнат",
@@ -800,18 +703,6 @@
 			"width":260,
 			"height":60
 		},
-		{
-			"id":"32d47cbed0f1dd25",
-			"type":"text",
-			"text":"Ари решает, что пора снова пользоваться магией",
-			"styleAttributes":{},
-			"x":1916,
-			"y":902,
-			"width":260,
-			"height":60
-		},
-		{"id":"e1e8cfb72c227119","type":"text","text":"варель в отключке","x":1992,"y":822,"width":197,"height":60},
-		{"id":"a1edb9c4fc00976a","type":"text","text":"диалог с Варель про рабство","x":1485,"y":902,"width":275,"height":72},
 		{"id":"197fb83775d5954f","type":"text","text":"Ари убеждается, что Делец как-то замешан и надо бы узнать больше","x":2622,"y":-225,"width":250,"height":105},
 		{"id":"bd81d87c45e7139f","type":"text","text":"при осмотре Ари найдёт письмо от Дельца с указанием времени (подпись Д)\n\n\"К - тут ничего нет\"\n\"А - тут точно что-то есть\"","x":2255,"y":-216,"width":250,"height":193},
 		{"id":"bdfd83b046c9cc35","type":"text","text":"убираем руну из спальни капеллана","x":1964,"y":-208,"width":250,"height":56},
@@ -857,8 +748,6 @@
 			"height":60
 		},
 		{"id":"7eea794e19ae5255","type":"text","text":"диалог между Ари и Корином с его сомнениями в адрес церкви","x":2160,"y":127,"width":336,"height":61},
-		{"id":"b66d0ea70e6404c1","type":"text","text":"Делец заодно провёл встречу с капелланом","x":1979,"y":469,"width":250,"height":60},
-		{"id":"36900ce7c62defe9","type":"text","text":"заодно убил капелана","x":2344,"y":505,"width":250,"height":60},
 		{
 			"id":"d43eb587da9faa7e",
 			"type":"text",
@@ -880,74 +769,6 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"787a11007296f71a","type":"text","text":"договорился с Дельцом на перевозку книги в глубь Арда","x":1572,"y":500,"width":312,"height":60},
-		{"id":"58d6ace795b36538","type":"text","text":"остался, дожидаясь отправки","x":2007,"y":545,"width":200,"height":60},
-		{
-			"id":"e27f3785db122183",
-			"type":"text",
-			"text":"**4 глава**\nразговор с Дельцом",
-			"styleAttributes":{"textAlign":"center"},
-			"x":639,
-			"y":1486,
-			"width":250,
-			"height":90,
-			"color":"6"
-		},
-		{
-			"id":"786ea4a3dc82a1c1",
-			"type":"text",
-			"text":"**2 - 3 главы**\nПоход в клуб Дельца",
-			"styleAttributes":{"textAlign":"center"},
-			"x":654,
-			"y":917,
-			"width":220,
-			"height":101,
-			"color":"6"
-		},
-		{
-			"id":"9e67adb20eb8927a",
-			"type":"text",
-			"text":"Выяснение информации о работе Дельца и его связи с капеланом",
-			"styleAttributes":{"textAlign":"center"},
-			"x":1080,
-			"y":1483,
-			"width":250,
-			"height":96,
-			"color":"6"
-		},
-		{
-			"id":"9eaf424bf2dd647f",
-			"type":"text",
-			"text":"беседа в кафе",
-			"styleAttributes":{"textAlign":"center"},
-			"x":1080,
-			"y":804,
-			"width":154,
-			"height":50,
-			"color":"6"
-		},
-		{
-			"id":"e0fcfb586130a538",
-			"type":"text",
-			"text":"встреча с Варель",
-			"styleAttributes":{"textAlign":"center"},
-			"x":1050,
-			"y":938,
-			"width":184,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"9a6a5c10025976c1",
-			"type":"text",
-			"text":"проникновение в подвал клуба",
-			"styleAttributes":{"textAlign":"center"},
-			"x":1076,
-			"y":1103,
-			"width":250,
-			"height":60,
-			"color":"6"
-		},
 		{
 			"id":"192dbfa9e8280ba9",
 			"type":"text",
@@ -959,125 +780,14 @@
 			"height":50,
 			"color":"3"
 		},
-		{"id":"5bf44a45fb0532a9","type":"text","text":"Шрам перевозит книгу с места на место для безопасности","x":1246,"y":486,"width":250,"height":89},
 		{
-			"id":"bf9454a68edd9645",
+			"id":"8e8ee5e39f377de2",
 			"type":"text",
-			"text":"Чел съёбывает, говоря, что у него есть дела",
+			"text":"Ари подозревает, что капеллан продавал саваж ",
 			"styleAttributes":{},
-			"x":5038,
-			"y":1730,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"930facb4b2a8c961",
-			"type":"text",
-			"text":"Ари разглядывает шрам и вспоминает отрывок из прошлого.\n\"Чел отбивает кинжалом один из её серпов и другим она ранит его по лицу\"\n\nАри говорит, что найдёт дельца после боёв и тогда они подпишут соглашение о торговле",
-			"styleAttributes":{},
-			"x":5038,
-			"y":1840,
-			"width":260,
-			"height":295
-		},
-		{
-			"id":"0f3a1363f51de8e5",
-			"type":"text",
-			"text":"Ариследует за челом",
-			"styleAttributes":{},
-			"x":5440,
-			"y":1810,
-			"width":220,
-			"height":60
-		},
-		{
-			"id":"82db9c861775e526",
-			"type":"text",
-			"text":"Ари предлагает свои услуги по поставке саважа, ссылаясь, что имеет некоторые связи в церкви.\nДелец заинтересован.",
-			"styleAttributes":{},
-			"x":4640,
-			"y":1754,
-			"width":260,
-			"height":163
-		},
-		{
-			"id":"dcf8b39a56256cec",
-			"type":"text",
-			"text":"Ляпнет, что столь близкая к его предыдущему поставщику госпожа будет хорошим партнёром. Тем более раз Капеллан ей настолько доверял, что рассказал ей про это место",
-			"styleAttributes":{},
-			"x":4640,
-			"y":2000,
-			"width":260,
-			"height":220
-		},
-		{
-			"id":"e24c41c72c9331d6",
-			"type":"text",
-			"text":"Ари подходит к стражникам, они пытаются её выпроводить, ссылаясь, что у их господина не будет на неё времени",
-			"styleAttributes":{},
-			"x":1466,
-			"y":1407,
-			"width":260,
-			"height":225
-		},
-		{
-			"id":"d2b70e874ad53df1",
-			"type":"text",
-			"text":"Делец подходит к ней вместе с Рашаном и успокаивает стражников, что на столь прекрасную особу время всегда найдётся\n(Ари немного напряжётся от его слов, но наденет маску профессионализма и станет подыгрывать)",
-			"styleAttributes":{},
-			"x":1813,
-			"y":1390,
-			"width":286,
-			"height":260
-		},
-		{
-			"id":"adc195eda4ee8a18",
-			"type":"text",
-			"text":"Делец спросит причину, по которой она его искала, и уточнит, не по поводу ли боёв её вопрос.\nАри подстроится и скажет, что да. Слышала от друзей, что это выгодное дело, а Делец заботливо подскажет ей что делать, тк разбирается в своём деле лучше всех",
-			"styleAttributes":{},
-			"x":2176,
-			"y":1380,
-			"width":300,
-			"height":280
-		},
-		{
-			"id":"7b210ca273826094",
-			"type":"text",
-			"text":"на вопрос, что за друзья - Ари скажет на капеллана",
-			"styleAttributes":{},
-			"x":2196,
-			"y":1724,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"82394877e23ad7ea",
-			"type":"text",
-			"text":"Делец присмотрится к ней с с сомнением, но хлопнет в ладоши и пригласит её на балкон.\nАри напряжётся, размышляя, верно ли она поступила, сказав про капеллана, ведь она о нём почти ичего не знает, и будет нервничать.\nЧел со шрамом будет приглядываться к Ари, но любезно пропустит вперёд и сделает комплимент её золотой маске (что ей очень идёт). Ари покажется его голос знакомым.",
-			"styleAttributes":{},
-			"x":2638,
-			"y":1390,
-			"width":375,
-			"height":334
-		},
-		{
-			"id":"e7d3f0756794f1c0",
-			"type":"text",
-			"text":"Делец спросит, как тесно Ари была знакома с капелланом, на что она ответит, что достаточно близко. Он был её духовным наставником, почти как отцом.\nДелец скажет, что очень жаль, что тот почил. Жаль было терять такого клиента и партнёра. Выразит Ари свои соболезнования",
-			"styleAttributes":{},
-			"x":3058,
-			"y":1419,
-			"width":300,
-			"height":277
-		},
-		{
-			"id":"164cbc24ace63e0b",
-			"type":"text",
-			"text":"Ари задумается над словом \"партнёр\"",
-			"styleAttributes":{},
-			"x":3078,
-			"y":1724,
-			"width":260,
+			"x":4287,
+			"y":1805,
+			"width":313,
 			"height":60
 		},
 		{
@@ -1110,27 +820,455 @@
 			"width":420,
 			"height":117
 		},
+		{"id":"da6d6c48ad0f8660","type":"text","text":"Разговор о рабах:\nДелец расскажет о системе выгоды\nПредложит Ари тоже стать спонсором\nАри проявит интерес","x":3460,"y":1494,"width":340,"height":128},
 		{
-			"id":"a20d38aa95c743d9",
+			"id":"e7d3f0756794f1c0",
 			"type":"text",
-			"text":"Делец не представляет, как мог его земляк... ну вы понимаете... \nна Белых Островах, что только не происходит, но серьёзно влюбиться... с ним точно что-то не так",
+			"text":"Делец спросит, как тесно Ари была знакома с капелланом, на что она ответит, что достаточно близко. Он был её духовным наставником, почти как отцом.\nДелец скажет, что очень жаль, что тот почил. Жаль было терять такого клиента и партнёра. Выразит Ари свои соболезнования",
 			"styleAttributes":{},
-			"x":4277,
-			"y":1485,
-			"width":280,
-			"height":190
+			"x":3058,
+			"y":1419,
+			"width":300,
+			"height":277
 		},
 		{
-			"id":"8e8ee5e39f377de2",
+			"id":"164cbc24ace63e0b",
 			"type":"text",
-			"text":"Ари подозревает, что капеллан продавал саваж ",
+			"text":"Ари задумается над словом \"партнёр\"",
 			"styleAttributes":{},
-			"x":4287,
-			"y":1805,
+			"x":3078,
+			"y":1724,
 			"width":260,
 			"height":60
 		},
-		{"id":"da6d6c48ad0f8660","type":"text","text":"Разговор о рабах:\nДелец расскажет о системе выгоды\nПредложит Ари тоже стать спонсором\nАри проявит интерес","x":3460,"y":1494,"width":340,"height":128}
+		{
+			"id":"82394877e23ad7ea",
+			"type":"text",
+			"text":"Делец присмотрится к ней с с сомнением, но хлопнет в ладоши и пригласит её на балкон.\nАри напряжётся, размышляя, верно ли она поступила, сказав про капеллана, ведь она о нём почти ичего не знает, и будет нервничать.\nЧел со шрамом будет приглядываться к Ари, но любезно пропустит вперёд и сделает комплимент её золотой маске (что ей очень идёт). Ари покажется его голос знакомым.",
+			"styleAttributes":{},
+			"x":2638,
+			"y":1390,
+			"width":375,
+			"height":334
+		},
+		{
+			"id":"bf9454a68edd9645",
+			"type":"text",
+			"text":"Чел съёбывает, говоря, что у него есть дела",
+			"styleAttributes":{},
+			"x":4800,
+			"y":1730,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"0f3a1363f51de8e5",
+			"type":"text",
+			"text":"Ариследует за челом",
+			"styleAttributes":{},
+			"x":5202,
+			"y":1810,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"930facb4b2a8c961",
+			"type":"text",
+			"text":"Ари разглядывает шрам и вспоминает отрывок из прошлого.\n\"Чел отбивает кинжалом один из её серпов и другим она ранит его по лицу\"\n\n",
+			"styleAttributes":{},
+			"x":4800,
+			"y":1840,
+			"width":260,
+			"height":200
+		},
+		{
+			"id":"adc195eda4ee8a18",
+			"type":"text",
+			"text":"Делец спросит причину, по которой она его искала, и уточнит, не по поводу ли боёв её вопрос.\nАри подстроится и скажет, что да. Слышала от друзей, что это выгодное дело, а Делец заботливо подскажет ей что делать, тк разбирается в своём деле лучше всех",
+			"styleAttributes":{},
+			"x":2176,
+			"y":1380,
+			"width":300,
+			"height":280
+		},
+		{
+			"id":"7b210ca273826094",
+			"type":"text",
+			"text":"на вопрос, что за друзья - Ари скажет на капеллана",
+			"styleAttributes":{},
+			"x":2196,
+			"y":1724,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"32d47cbed0f1dd25",
+			"type":"text",
+			"text":"Ари решает, что пора снова пользоваться магией",
+			"styleAttributes":{},
+			"x":1916,
+			"y":902,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d2b70e874ad53df1",
+			"type":"text",
+			"text":"Делец подходит к ней вместе с Рашаном и успокаивает стражников, что на столь прекрасную особу время всегда найдётся\n(Ари немного напряжётся от его слов, но наденет маску профессионализма и станет подыгрывать)",
+			"styleAttributes":{},
+			"x":1813,
+			"y":1390,
+			"width":286,
+			"height":260
+		},
+		{"id":"a1edb9c4fc00976a","type":"text","text":"диалог с Варель про рабство","x":1485,"y":902,"width":275,"height":72},
+		{
+			"id":"e24c41c72c9331d6",
+			"type":"text",
+			"text":"Ари подходит к стражникам, они пытаются её выпроводить, ссылаясь, что у их господина не будет на неё времени",
+			"styleAttributes":{},
+			"x":1466,
+			"y":1407,
+			"width":260,
+			"height":225
+		},
+		{
+			"id":"9e67adb20eb8927a",
+			"type":"text",
+			"text":"Выяснение информации о работе Дельца и его связи с капеланом",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1080,
+			"y":1483,
+			"width":250,
+			"height":96,
+			"color":"6"
+		},
+		{
+			"id":"9a6a5c10025976c1",
+			"type":"text",
+			"text":"проникновение в подвал клуба",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1076,
+			"y":1103,
+			"width":250,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"e0fcfb586130a538",
+			"type":"text",
+			"text":"встреча с Варель",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1050,
+			"y":938,
+			"width":184,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"e27f3785db122183",
+			"type":"text",
+			"text":"**4 глава**\nразговор с Дельцом",
+			"styleAttributes":{"textAlign":"center"},
+			"x":639,
+			"y":1486,
+			"width":250,
+			"height":90,
+			"color":"6"
+		},
+		{
+			"id":"786ea4a3dc82a1c1",
+			"type":"text",
+			"text":"**2 - 3 главы**\nПоход в клуб Дельца",
+			"styleAttributes":{"textAlign":"center"},
+			"x":654,
+			"y":917,
+			"width":220,
+			"height":101,
+			"color":"6"
+		},
+		{
+			"id":"98194c0ca6e63506",
+			"type":"text",
+			"text":"Ари сомневается в компетентности и добросовестности Корина",
+			"styleAttributes":{},
+			"x":-50,
+			"y":1462,
+			"width":260,
+			"height":84
+		},
+		{
+			"id":"24694f39cc4f0a6a",
+			"type":"text",
+			"text":"Следует за челом, тот встречается с Культистами, чтобы передать им книгу\nРазговаривает с ними на языке пустыни",
+			"styleAttributes":{},
+			"x":-80,
+			"y":2860,
+			"width":260,
+			"height":160
+		},
+		{
+			"id":"65eabdeb5bd02b8c",
+			"type":"text",
+			"text":"Ари должна снова стать Тенью",
+			"styleAttributes":{},
+			"x":-260,
+			"y":2610,
+			"width":260,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"9a6ca68de7bd222a",
+			"type":"text",
+			"text":"встреча с Варель и прошлое Корина",
+			"styleAttributes":{},
+			"x":-310,
+			"y":1355,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"ef7a633421117f87",
+			"type":"text",
+			"text":"драка в порту",
+			"styleAttributes":{},
+			"x":-340,
+			"y":1595,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"3dfd43b758703946",
+			"type":"text",
+			"text":"невнятное начало с культистами",
+			"styleAttributes":{},
+			"x":-330,
+			"y":1115,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"0ebee5545c491055",
+			"type":"text",
+			"text":"диалог в кафе",
+			"styleAttributes":{},
+			"x":-330,
+			"y":1235,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"2892c5f9a61a19cf",
+			"type":"text",
+			"text":"чтение памяти",
+			"styleAttributes":{},
+			"x":-460,
+			"y":1495,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"1549ed6edf6922d5",
+			"type":"text",
+			"text":"что стоит оставить?",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-470,
+			"y":935,
+			"width":260,
+			"height":60,
+			"color":"5"
+		},
+		{"id":"e1e8cfb72c227119","type":"text","text":"варель в отключке","x":1992,"y":822,"width":197,"height":60},
+		{
+			"id":"9eaf424bf2dd647f",
+			"type":"text",
+			"text":"беседа в кафе",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1080,
+			"y":804,
+			"width":154,
+			"height":50,
+			"color":"6"
+		},
+		{"id":"789a733eef678e72","type":"file","file":"Сатис/Культ Клеоноса.md","x":-480,"y":-58,"width":400,"height":718},
+		{"id":"5bf44a45fb0532a9","type":"text","text":"Шрам перевозит книгу с места на место для безопасности","x":1322,"y":486,"width":250,"height":89},
+		{"id":"787a11007296f71a","type":"text","text":"договорился с Дельцом работаь на него в обмен на охрану и проживание","x":1680,"y":501,"width":344,"height":60},
+		{
+			"id":"d82029a5196a6f4f",
+			"type":"text",
+			"text":"Ари выдаёт, что то должен сказать ей где книга. Рашан тянет время.",
+			"styleAttributes":{},
+			"x":2400,
+			"y":2157,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"0275b8700adfe55b",
+			"type":"text",
+			"text":"Рашан останавливается в глубине канализации, начинает диалог с Ари и Корином.\nЗа его спиной виден проход в стене.",
+			"styleAttributes":{},
+			"x":2020,
+			"y":2163,
+			"width":260,
+			"height":187
+		},
+		{
+			"id":"d9baa571e07ab167",
+			"type":"text",
+			"text":"Отряд Рашана собирается и проскакивает в проход за спиной Рашана",
+			"styleAttributes":{},
+			"x":2400,
+			"y":2280,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"55476adba560b08f",
+			"type":"text",
+			"text":"начинается драка\nпара бойцов из отряда остаются помочь",
+			"styleAttributes":{},
+			"x":2760,
+			"y":2230,
+			"width":220,
+			"height":90
+		},
+		{
+			"id":"9936355b1d7b2aa4",
+			"type":"text",
+			"text":"Корина ранят, когда Ари чуть не убивают со спины",
+			"styleAttributes":{},
+			"x":3040,
+			"y":2245,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"3f6d421aea68fa7d",
+			"type":"text",
+			"text":"Рашан уходит, Ари бежит за ними по канализации, но теряет след. Корин останавливает Ари, уговаривая вернуться",
+			"styleAttributes":{},
+			"x":3380,
+			"y":2200,
+			"width":260,
+			"height":150
+		},
+		{
+			"id":"70878393a0084371",
+			"type":"text",
+			"text":"Ари говорит Корину, что они больше не могут быть напарниками, что Корин не годится в раведчики, и что не может постоянно беспокоиться о нём\n(про себя думает, что не хочет его терять и лучше бросит его сейчас. Тк все, кто был с ней ранее умерли)",
+			"styleAttributes":{},
+			"x":3740,
+			"y":2210,
+			"width":340,
+			"height":210
+		},
+		{
+			"id":"b857e9dd0e78d292",
+			"type":"text",
+			"text":"Корин нагоняет Ари у поворота и говрит о своём беспокойстве",
+			"styleAttributes":{},
+			"x":1320,
+			"y":2320,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"ea4c45f16eb09770",
+			"type":"text",
+			"text":"Ари просит Корина уйти, но тот отказывается",
+			"styleAttributes":{},
+			"x":1660,
+			"y":2320,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"6e04f928b1345269",
+			"type":"text",
+			"text":"Ари следует за Рашаном, тот идёт в катакомбы под клубом",
+			"styleAttributes":{},
+			"x":1060,
+			"y":2070,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"52e6799beeb380aa",
+			"type":"text",
+			"text":"Корин следует за Ари, тк её долго не было",
+			"styleAttributes":{},
+			"x":1060,
+			"y":2220,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"7aabb047fc57a140",
+			"type":"text",
+			"text":"**5 глава**\nкнига...",
+			"styleAttributes":{"textAlign":"center"},
+			"x":634,
+			"y":2140,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"275f5fa42dd64da2",
+			"type":"text",
+			"text":"Ари думает, что действительно это было глупо. Корин не заслуживает пострадать из-за неё",
+			"styleAttributes":{},
+			"x":2516,
+			"y":1980,
+			"width":260,
+			"height":123
+		},
+		{
+			"id":"bca21e3b151927be",
+			"type":"text",
+			"text":"Говорит Ари:\n\"==Снова заставила кого-то себе довериться?==\"",
+			"styleAttributes":{},
+			"x":2220,
+			"y":1991,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"750cb99f3076a811",
+			"type":"text",
+			"text":"Говорят, что Ари и ранее пыталась получить книгу, но у неё это не выходило",
+			"styleAttributes":{},
+			"x":2420,
+			"y":2460,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"5d350fbae2bbc77b",
+			"type":"text",
+			"text":"Говорит про книгу, что она слишком опасна и не должна попасть в руки ордена",
+			"styleAttributes":{},
+			"x":2120,
+			"y":2560,
+			"width":260,
+			"height":120
+		},
+		{
+			"id":"5ab21af6ba04e2c9",
+			"type":"text",
+			"text":"Ари про себя думает, что эта книга изначально принадлежала ордену, и только орден упасёт её от тех, кто может использовать её во зло.\nИ к тому же, она написана на языке первых эльфов и он знать не может, о чём она. Даже орден не знает, тк перевести они её не успели из-за него",
+			"styleAttributes":{},
+			"x":2360,
+			"y":2700,
+			"width":400,
+			"height":220
+		}
 	],
 	"edges":[
 		{"id":"7732e515e9a7fa29","toFloating":false,"fromNode":"786ea4a3dc82a1c1","fromSide":"right","toNode":"e0fcfb586130a538","toSide":"left"},
@@ -1163,10 +1301,6 @@
 		{"id":"bb87432c95172263","fromNode":"786ea4a3dc82a1c1","fromSide":"right","toNode":"192dbfa9e8280ba9","toSide":"left"},
 		{"id":"e19e3862313642c6","fromNode":"192dbfa9e8280ba9","fromSide":"right","toNode":"5bf44a45fb0532a9","toSide":"left"},
 		{"id":"2482b72b3ffe5cf4","fromNode":"5bf44a45fb0532a9","fromSide":"right","toNode":"787a11007296f71a","toSide":"left"},
-		{"id":"62d4f7b6660b7667","fromNode":"787a11007296f71a","fromSide":"right","toNode":"b66d0ea70e6404c1","toSide":"left"},
-		{"id":"fbf9b50fc0e64784","fromNode":"787a11007296f71a","fromSide":"right","toNode":"58d6ace795b36538","toSide":"left"},
-		{"id":"c451c198efc7fe66","fromNode":"b66d0ea70e6404c1","fromSide":"right","toNode":"36900ce7c62defe9","toSide":"left"},
-		{"id":"bcc90bff1760e6fc","fromNode":"58d6ace795b36538","fromSide":"right","toNode":"36900ce7c62defe9","toSide":"left"},
 		{"id":"8acadabf79e043d5","fromNode":"3bd9de67a309e1a3","fromSide":"right","toNode":"3ecc73f4b68faf53","toSide":"left"},
 		{"id":"f834e09468b4e659","fromNode":"3bd9de67a309e1a3","fromSide":"right","toNode":"bfec478f5538b5b9","toSide":"left"},
 		{"id":"1712125579139142","fromNode":"91150185b630bda3","fromSide":"right","toNode":"3bd9de67a309e1a3","toSide":"left"},
@@ -1899,15 +2033,6 @@
 			"toSide":"left"
 		},
 		{
-			"id":"a8330d4367621458",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"8e8ee5e39f377de2",
-			"fromSide":"right",
-			"toNode":"82db9c861775e526",
-			"toSide":"left"
-		},
-		{
 			"id":"527c5442c876949d",
 			"styleAttributes":{},
 			"toFloating":false,
@@ -2035,24 +2160,6 @@
 			"toSide":"left"
 		},
 		{
-			"id":"9281344d3d002fd3",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"82db9c861775e526",
-			"fromSide":"right",
-			"toNode":"bf9454a68edd9645",
-			"toSide":"left"
-		},
-		{
-			"id":"9fb8d7b4972a4e7b",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"82db9c861775e526",
-			"fromSide":"right",
-			"toNode":"930facb4b2a8c961",
-			"toSide":"left"
-		},
-		{
 			"id":"93736fe0c5caa1c7",
 			"styleAttributes":{},
 			"toFloating":false,
@@ -2071,21 +2178,195 @@
 			"toSide":"left"
 		},
 		{
-			"id":"55200fb310a89995",
+			"id":"8073c7cace3c0801",
 			"styleAttributes":{},
 			"toFloating":false,
-			"fromNode":"82db9c861775e526",
+			"fromNode":"8e8ee5e39f377de2",
+			"fromSide":"right",
+			"toNode":"bf9454a68edd9645",
+			"toSide":"left"
+		},
+		{
+			"id":"5da963300a138400",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8e8ee5e39f377de2",
+			"fromSide":"right",
+			"toNode":"930facb4b2a8c961",
+			"toSide":"left"
+		},
+		{
+			"id":"2a92adec5cac9bbe",
+			"styleAttributes":{"path":"short-dashed"},
+			"toFloating":false,
+			"fromNode":"e27f3785db122183",
 			"fromSide":"bottom",
-			"toNode":"dcf8b39a56256cec",
+			"toNode":"7aabb047fc57a140",
 			"toSide":"top"
 		},
 		{
-			"id":"a8cc3ad8975d0c4d",
+			"id":"75df1e54c21af799",
 			"styleAttributes":{},
 			"toFloating":false,
-			"fromNode":"3c2842d53a46aa25",
+			"fromNode":"7aabb047fc57a140",
 			"fromSide":"right",
-			"toNode":"a20d38aa95c743d9",
+			"toNode":"6e04f928b1345269",
+			"toSide":"left"
+		},
+		{
+			"id":"9cb3328230fb6847",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7aabb047fc57a140",
+			"fromSide":"right",
+			"toNode":"52e6799beeb380aa",
+			"toSide":"left"
+		},
+		{
+			"id":"524c8f505278cb57",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6e04f928b1345269",
+			"fromSide":"right",
+			"toNode":"0275b8700adfe55b",
+			"toSide":"left"
+		},
+		{
+			"id":"706341f866d01cbb",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ea4c45f16eb09770",
+			"fromSide":"right",
+			"toNode":"0275b8700adfe55b",
+			"toSide":"left"
+		},
+		{
+			"id":"cfec9ef706df3c42",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"52e6799beeb380aa",
+			"fromSide":"bottom",
+			"toNode":"b857e9dd0e78d292",
+			"toSide":"left"
+		},
+		{
+			"id":"8b2d5152a9230322",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b857e9dd0e78d292",
+			"fromSide":"right",
+			"toNode":"ea4c45f16eb09770",
+			"toSide":"left"
+		},
+		{
+			"id":"a256859479977c9d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0275b8700adfe55b",
+			"fromSide":"right",
+			"toNode":"d82029a5196a6f4f",
+			"toSide":"left"
+		},
+		{
+			"id":"3a9ce9cb61462bc4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0275b8700adfe55b",
+			"fromSide":"right",
+			"toNode":"d9baa571e07ab167",
+			"toSide":"left"
+		},
+		{
+			"id":"cff5cc8cdde065c7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d82029a5196a6f4f",
+			"fromSide":"right",
+			"toNode":"55476adba560b08f",
+			"toSide":"left"
+		},
+		{
+			"id":"bdc523ed3c2c96d3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d9baa571e07ab167",
+			"fromSide":"right",
+			"toNode":"55476adba560b08f",
+			"toSide":"left"
+		},
+		{
+			"id":"5d650d49115d1fcb",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"55476adba560b08f",
+			"fromSide":"right",
+			"toNode":"9936355b1d7b2aa4",
+			"toSide":"left"
+		},
+		{
+			"id":"e2e7b923044f5b4f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9936355b1d7b2aa4",
+			"fromSide":"right",
+			"toNode":"3f6d421aea68fa7d",
+			"toSide":"left"
+		},
+		{
+			"id":"a3d090114f37b30b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3f6d421aea68fa7d",
+			"fromSide":"right",
+			"toNode":"70878393a0084371",
+			"toSide":"left"
+		},
+		{
+			"id":"99e30efa9d4f7204",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"0275b8700adfe55b",
+			"fromSide":"top",
+			"toNode":"bca21e3b151927be",
+			"toSide":"left"
+		},
+		{
+			"id":"c1b1e93d7fa370ac",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"bca21e3b151927be",
+			"fromSide":"right",
+			"toNode":"275f5fa42dd64da2",
+			"toSide":"left"
+		},
+		{
+			"id":"24d5b46f24da0581",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"d9baa571e07ab167",
+			"fromSide":"top",
+			"toNode":"750cb99f3076a811",
+			"toSide":"top"
+		},
+		{
+			"id":"9ff2f9e4b4724d8d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"d82029a5196a6f4f",
+			"fromSide":"bottom",
+			"toNode":"5d350fbae2bbc77b",
+			"toSide":"top"
+		},
+		{
+			"id":"045fed1e1b0fc86c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5d350fbae2bbc77b",
+			"fromSide":"bottom",
+			"toNode":"5ab21af6ba04e2c9",
 			"toSide":"left"
 		}
 	],
