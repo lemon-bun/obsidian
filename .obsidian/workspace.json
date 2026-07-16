@@ -8,76 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "364692b468e2c728",
+            "id": "4ee21dabf0375232",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Сюжет/Сюжет Ари (первые главы).canvas",
+                "file": "Сюжет/Сюжет Лиэлар (первые главы).canvas",
                 "viewState": {
-                  "x": 3642.207279203277,
-                  "y": 2487.030887877845,
-                  "zoom": -0.333333333333333
+                  "x": 1075.3339607874318,
+                  "y": 1146.862198883774,
+                  "zoom": -1.3333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Сюжет Ари (первые главы)"
+              "title": "Сюжет Лиэлар (первые главы)"
             }
           },
           {
-            "id": "4ee21dabf0375232",
+            "id": "30ecf7b005c58b08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Мир/книга.md",
+                "file": "Гил-Глаэль/Лиэлар из рода Делендир.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "книга"
-            }
-          },
-          {
-            "id": "5f3310ce820fe6c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сатис/Шрам.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Шрам"
-            }
-          },
-          {
-            "id": "fc4460c09f4b8ef1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сатис/Арилайа Ноксус.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Арилайа Ноксус"
-            }
-          },
-          {
-            "id": "f3a49461de2cbfb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сатис/Илиодор Ноксус.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Илиодор Ноксус"
+              "title": "Лиэлар из рода Делендир"
             }
           }
         ]
@@ -100,7 +58,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -137,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "af3ed439a7dd1163",
@@ -254,25 +211,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "364692b468e2c728",
+  "active": "58c352ff939f2247",
   "lastOpenFiles": [
-    "Сатис/Илиодор Ноксус.md",
     "Сюжет/Сюжет Ари (первые главы).canvas",
+    "Сатис/Арилайа Ноксус.md",
+    "Мир/книга.md",
+    "Сюжет/Сюжет Лиэлар (первые главы).canvas",
+    "Гил-Глаэль/Лиэлар из рода Делендир.md",
+    "Мир/Магия.md",
+    "Болезнь.md",
+    "Сюжет/Культ Клеоноса (сюжет).canvas",
+    "глоссарий.md",
+    "Гил-Глаэль",
+    "Сатис/Илиодор Ноксус.md",
     "Мир/Карта Целестиса.png",
     "Сатис/Культ Клеоноса.md",
-    "Сатис/Арилайа Ноксус.md",
     "Сатис/Сфинксы.md",
     "Сатис/Шрам.md",
-    "Мир/книга.md",
-    "глоссарий.md",
-    "Сюжет/Культ Клеоноса (сюжет).canvas",
     "Сатис/Орден Золотых Масок.md",
     "Сатис/Корин.md",
     "Сатис/Клеонос.md",
     "Сатис/Ард.md",
     "Мир/Политика стран Целестиса.md",
     "Мир/Общая история.md",
-    "Мир/Магия.md",
     "Мир/Демография.md",
     "Мир/болезнь.md",
     "Мир/Боги Целестиса.png",
